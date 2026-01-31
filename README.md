@@ -20,7 +20,8 @@ This Power BI project provides a comprehensive analysis of car sales data. The g
 * Designed a custom theme for a "Dark Mode" premium automotive feel.
 
 ## Preview
-![Dashboard Screenshot]<img width="1432" height="802" alt="Car_Sales_Overview" src="https://github.com/user-attachments/assets/8cf5d31d-18c8-4333-9309-47a946722960" />
+![Dashboard Screenshot]<img width="1432" height="802" alt="Car_Sales_Overview" src="https://github.com/user-attachments/assets/8cf5d31d-18c8-4333-9309-47a946722960" /> <img width="1431" height="802" alt="Car_Sales_Details" src="https://github.com/user-attachments/assets/e94821aa-6c09-4a58-9a75-d8b50b816fbb" />
+
 
 
 ## How to View
